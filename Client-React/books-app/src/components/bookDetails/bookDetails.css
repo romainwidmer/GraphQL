@@ -1,0 +1,11 @@
+.book-details {
+  width: 50%;
+  height: 100%;
+  background-color: #5b96b9;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+h2 {
+  text-align: center;
+}

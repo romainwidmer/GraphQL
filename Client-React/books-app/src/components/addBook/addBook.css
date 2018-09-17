@@ -1,0 +1,10 @@
+#add-book {
+  padding: 10px;
+  width: 40%;
+}
+
+.field {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
